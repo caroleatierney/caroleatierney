@@ -9,7 +9,7 @@ I am looking to transition to a career in Front End Web Development. I have work
 * 🌍  I'm based in Boston
 * ✉️  You can contact me at [caroleatierney@gmail.com](mailto:caroleatierney@gmail.com)
 * 🚀  I'm currently working on [My final project.](http://github.com/caroleatierney/week_16_final_project)
-* 🧠  I'm learning Typescript
+* 🧠  The next language I want to learn is Typescript
 * 🤝  I'm open to collaborating on Anything that I can gain meaningful experience from.
 
 ### Skills
